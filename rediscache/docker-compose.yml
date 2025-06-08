@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:7.0-alpine
+    container_name: redis
+    ports:
+      - "6379:6379"
+    restart: always
+
+  postgres:
+    image: postgres:15-alpine
+    container_name: postgres
+    environment:
+      POSTGRES_DB: redis_cache
+      POSTGRES_USER: pg
+      POSTGRES_PASSWORD: pg
+    ports:
+      - "5432:5432"
+    restart: always
+    command:
+      - "postgres"
+      - "-c"
+      - "wal_level=logical"
+
+  adminer:
+    image: adminer
+    platform: linux/amd64
+    restart: always
+    ports:
+      - "8001:8080"

@@ -1,0 +1,4 @@
+com/sso/inventoryservice/repository/InventoryRepository.class
+com/sso/inventoryservice/entity/Inventory.class
+com/sso/inventoryservice/service/InventoryConsumer.class
+com/sso/inventoryservice/entity/Inventory$InventoryBuilder.class

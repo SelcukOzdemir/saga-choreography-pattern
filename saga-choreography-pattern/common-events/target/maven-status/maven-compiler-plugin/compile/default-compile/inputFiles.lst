@@ -1,0 +1,6 @@
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/InventoryFailedEvent.java
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/CreateOrderRequest.java
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/PaymentCompletedEvent.java
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/InventoryReservedEvent.java
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/OrderCreatedEvent.java
+/Users/selcuk.ozdemir/Documents/workspaces/saga-choreography-pattern/common-events/src/main/java/com/sso/saga/events/PaymentFailedEvent.java

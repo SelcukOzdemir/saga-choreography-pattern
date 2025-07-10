@@ -1,8 +1,0 @@
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/RedisCacheApplication.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/config/RedisConfig.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/controller/UserController.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/dto/CreateUserDto.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/dto/UpdateUserDto.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/model/User.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/repository/UserRepository.java
-/Users/selcuk.ozdemir/Documents/workspaces/rediscache/src/main/java/com/sso/rediscache/service/UserService.java
